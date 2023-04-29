@@ -1,0 +1,4 @@
+aiogram==2.19
+requests==2.27.1
+deepface==0.0.74
+opencv-python==4.5.5.64
